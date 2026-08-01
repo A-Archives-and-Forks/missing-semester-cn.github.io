@@ -12,7 +12,7 @@ Many programs are configured using plain-text files known as "dotfiles"
 hidden in the directory listing `ls` by default).
 
 A lot of the tools you use probably have a lot of settings that can be tuned
-pretty finely. Often times, tools are customized with specialized languages,
+pretty finely. Oftentimes, tools are customized with specialized languages,
 e.g. Vimscript for Vim or the shell's own language for a shell.
 
 Customizing and adapting your tools to your preferred workflow will make you

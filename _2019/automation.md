@@ -52,7 +52,7 @@ To deal with the environment, make sure that you use absolute paths in all your 
 * * * * *   user  /path/to/cronscripts/every_minute.sh >> /tmp/cron_every_minute.log 2>&1
 ```
 
-And write the script in a separate file. Remember that `>>` appends to the file and that `2>&1` redirects `stderr` to `stdout` (you might to want keep them separate though).
+And write the script in a separate file. Remember that `>>` appends to the file and that `2>&1` redirects `stderr` to `stdout` (you might want to keep them separate though).
 
 ## Anacron
 
